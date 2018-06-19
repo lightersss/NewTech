@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/NewTech/src/java/servlets/Login.java</file>
+            <file>file:/D:/NewTech/src/java/servlets/Search.java</file>
+            <file>file:/D:/NewTech/src/java/servlets/logout.java</file>
+            <file>file:/D:/NewTech/src/java/servlets/add.java</file>
+            <file>file:/D:/NewTech/src/java/servlets/SearchBill.java</file>
+            <file>file:/D:/NewTech/src/java/servlets/payment.java</file>
+            <file>file:/D:/NewTech/src/java/beans/Pay.java</file>
+            <file>file:/D:/NewTech/web/orderdetails.jsp</file>
+            <file>file:/D:/NewTech/web/success.jsp</file>
+            <file>file:/D:/NewTech/web/index.jsp</file>
+            <file>file:/D:/NewTech/web/denglu.jsp</file>
+            <file>file:/D:/NewTech/web/pay.jsp</file>
+            <file>file:/D:/NewTech/nbproject/build-impl.xml</file>
+            <file>file:/D:/NewTech/web/search.jsp</file>
+            <file>file:/D:/NewTech/web/searchresult.jsp</file>
+            <file>file:/D:/NewTech/web/shoppingcart.jsp</file>
+            <file>file:/D:/NewTech/web/zhuce.jsp</file>
+            <file>file:/D:/NewTech/web/Submit.gif</file>
+            <file>file:/D:/NewTech/src/java/DAO/DBHelper.java</file>
+        </group>
+    </open-files>
+</project-private>
